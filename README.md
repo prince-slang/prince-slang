@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 Working as a **Backend Developer** at [Catloga](https://catloga.in), Morbi
+- 👨‍💻 Working as a **Backend Developer** at [Catloga](https://catloga.com), Morbi
 - 💻 Specialized in building **robust, scalable, and efficient APIs**
 - 🧠 Constantly learning: **Redis**, **Caching**, **Message Queues**, **Clean Architecture**
 - 🛠️ Passionate about writing **maintainable** and **testable** backend code
