@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Sherasiya</h1>
+<h3 align="center">Backend Developer at Catloga, Morbi 🇮🇳</h3>
 
-<!--
-**prince-slang/prince-slang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princesherasiya&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesherasiya&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 👨‍💻 Working as a **Backend Developer** at [Catloga](https://catloga.in), Morbi
+- 💻 Specialized in building **robust, scalable, and efficient APIs**
+- 🧠 Constantly learning: **Redis**, **Caching**, **Message Queues**, **Clean Architecture**
+- 🛠️ Passionate about writing **maintainable** and **testable** backend code
+- 🚀 Currently working on **Redis-cached product services** and **multi-tenant backend systems**
+
+---
+
+### ⚙️ Tech Stack
+
+```ts
+Languages   : TypeScript, JavaScript  
+Backend     : Node.js, Express.js  
+Database    : MySQL, Redis  
+ORM         : Sequelize  
+Tools       : Docker, Git, PM2, Postman  
+Monitoring  : RedisInsight, LogRocket
